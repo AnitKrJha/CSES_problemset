@@ -1,6 +1,3 @@
-Sure, here's an example of a README file for a CSES (Competitive Programming) problem set, containing a table with problem names and links:
-
-
 # CSES Problem Set
 
 Welcome to the CSES Problem Set! This repository contains a collection of competitive programming problems from the [CSES Problem Set](https://cses.fi/problemset/).
