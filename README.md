@@ -21,7 +21,7 @@ Welcome to the CSES Problem Set! This repository contains a collection of compet
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/cses-problem-set.git
+git clone https://github.com/AnitKrJha/CSES_problemset 
 ```
 
 2. Navigate to the problem folder using the problem ID, e.g., `cd 1068`.
